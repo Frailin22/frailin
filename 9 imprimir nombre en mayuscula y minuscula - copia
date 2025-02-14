@@ -1,0 +1,5 @@
+print ("este programa te pide tu nombre y lo imprime en mayuscula y en minuscula")
+nomre = input("escribe tu nombre: ")
+
+print (nombre ("minuscula"))
+print (nombre + ("MAYUSCULA"))

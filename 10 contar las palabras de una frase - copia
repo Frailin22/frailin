@@ -1,0 +1,9 @@
+print ("este programa contara cada frase de una palabra")
+global txt
+txt = ("ingrese un texto: ")
+def separ_palabras () :
+  part = txt . split (' ')
+  print(part)
+
+leer_frase ()
+separ_palabras ()
